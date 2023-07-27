@@ -1,0 +1,1001 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Korbin Brakus",
+      "userName": "B.A. Brakus"
+    },
+    {
+      "id": 2,
+      "fullName": "Elda Zemlak",
+      "userName": "LegendOfZemlak"
+    },
+    {
+      "id": 3,
+      "fullName": "Teagan Hoppe",
+      "userName": "THoppty"
+    },
+    {
+      "id": 4,
+      "fullName": "Lon McGlynn",
+      "userName": "LondryDay"
+    },
+    {
+      "id": 5,
+      "fullName": "Greg Korte",
+      "userName": "IllumiGregi"
+    },
+    {
+      "userName": "kclayton",
+      "fullName": "Kenny Clayton",
+      "id": 6
+    },
+    {
+      "userName": "AgentSleaze",
+      "fullName": "Bailey Chamblee",
+      "id": 7
+    }
+  ],
+  "characters": [
+    {
+      "id": 1,
+      "name": "Goku",
+      "bioPic": "https://w0.peakpx.com/wallpaper/641/837/HD-wallpaper-goku-ultra-instinct-dragon-ball-super-dragon-ball-anime.jpg",
+      "info": "Warrior Saiyan of Universe 7",
+      "approvalStatus": true,
+      "universeId": 7,
+      "powerSetId": 1
+    },
+    {
+      "id": 2,
+      "name": "Vegeta",
+      "bioPic": "https://cdn.bhdw.net/im/super-saiyan-blue-vegeta-from-dragon-ball-super-resurrection-f-saga-dragon-ball-legends-art-wallpaper-100962_w635.webp",
+      "info": "Prince of all Saiyains",
+      "approvalStatus": true,
+      "universeId": 7,
+      "powerSetId": 2
+    },
+    {
+      "id": 3,
+      "name": "Beerus",
+      "bioPic": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6f3def8d-3b49-4f32-af6d-d0a4c9647d4b/df5ah7d-c46f7bbc-90f3-4c24-95de-300db5724702.jpg/v1/fit/w_828,h_1170,q_70,strp/lord_beerus__bills__from_dragon_ball_super_by_daekarsenpai_df5ah7d-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY4NCIsInBhdGgiOiJcL2ZcLzZmM2RlZjhkLTNiNDktNGYzMi1hZjZkLWQwYTRjOTY0N2Q0YlwvZGY1YWg3ZC1jNDZmN2JiYy05MGYzLTRjMjQtOTVkZS0zMDBkYjU3MjQ3MDIuanBnIiwid2lkdGgiOiI8PTExOTEifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.cKhSpXwinp6WY4xSeHy_qJ77-XVy2-KM8lyb-aPqtwk",
+      "info": "God of Destruction of Universe 7, and a cute little cat thingy",
+      "approvalStatus": true,
+      "universeId": 7,
+      "powerSetId": 4,
+      "powerSet": {
+        "id": 4,
+        "description": "Beerus's power set is based on his position as the God of Destruction of Universe 7. Beerus is incredibly powerful, and he has access to a wide range of ki-based attacks. He is one of the strongest beings in the universe.",
+        "powerLevel": 1275,
+        "powers": [
+          "Hakai",
+          "Energy Blasts",
+          "Planet Destruction",
+          "God of Destruction's Ki",
+          "God of Destruction's Aura"
+        ]
+      },
+      "universe": {
+        "id": 7,
+        "description": "A world where martial arts, superpowers, and epic battles are the norm.",
+        "universeImage": "https://i.redd.it/universe-7-ready-to-win-the-next-tournament-of-power-in-v0-x54kghxesc6a1.jpg?s=f5279c1b22c0c305e8905916b47ba4d47676710b",
+        "universeName": "Dragon Ball"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Frieza",
+      "bioPic": "https://www.animesenpai.net/wp-content/uploads/2023/05/Dragon-Ball-Frieza_11zon-1024x576.jpg.webp",
+      "info": "The tyrant and emperor from Universe 7",
+      "approvalStatus": true,
+      "universeId": 7,
+      "powerSetId": 3
+    },
+    {
+      "id": 5,
+      "name": "Jiren",
+      "bioPic": "https://www.gematsu.com/wp-content/uploads/2021/07/Jiren-FP-DBXV2_07-16-21.jpg",
+      "info": "The most powerful Pride Trooper of Universe 11",
+      "approvalStatus": true,
+      "universeId": 7,
+      "powerSetId": 5
+    },
+    {
+      "id": 6,
+      "name": "Naruto Uzumaki",
+      "bioPic": "https://img.asmedia.epimg.net/resizer/gy-ADnQWtaBop3GYhMfX7qW5Xbk=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/O3FUPP4PEZI7PFP6WCUQX5HFTM.jpg",
+      "info": "The ninja with dreams of becoming Hokage",
+      "approvalStatus": true,
+      "universeId": 2,
+      "powerSetId": 6
+    },
+    {
+      "id": 7,
+      "name": "Sasuke Uchiha",
+      "bioPic": "https://wallpapers.com/images/featured/cool-sasuke-scy1kmib74dvfreb.webp",
+      "info": "The last of the Uchiha clan seeking revenge",
+      "approvalStatus": true,
+      "universeId": 2,
+      "powerSetId": 7
+    },
+    {
+      "id": 8,
+      "name": "Sakura Haruno",
+      "bioPic": "https://pm1.aminoapps.com/6473/46fa1871caace2b27d2bd02555db5bceac428eb4_hq.jpg",
+      "info": "The strong-willed medical ninja",
+      "approvalStatus": true,
+      "universeId": 2,
+      "powerSetId": 9
+    },
+    {
+      "id": 9,
+      "name": "Kakashi Hatake",
+      "bioPic": "https://wallpaperaccess.com/full/484955.jpg",
+      "info": "The skilled Jonin and former Hokage",
+      "approvalStatus": true,
+      "universeId": 2,
+      "powerSetId": 8
+    },
+    {
+      "id": 10,
+      "name": "Might Guy",
+      "bioPic": "https://getwallpapers.com/wallpaper/full/c/9/1/916340-amazing-might-guy-wallpapers-1920x1080-for-htc.jpg",
+      "info": "The taijutsu master and Guy Sensei",
+      "approvalStatus": true,
+      "universeId": 2,
+      "powerSetId": 10
+    },
+    {
+      "id": 11,
+      "name": "Luke Skywalker",
+      "bioPic": "https://static.wikia.nocookie.net/star-wars-canon-extended/images/2/2c/Luke_Sky7.jpg/revision/latest/scale-to-width-down/376?cb=20180123070942",
+      "info": "The legendary Jedi Knight",
+      "approvalStatus": true,
+      "universeId": 1,
+      "powerSetId": 11
+    },
+    {
+      "id": 12,
+      "name": "Darth Vader",
+      "bioPic": "https://wallpapers.com/images/hd/evil-darth-vader-e85g8rh2ev2npzxt.webp",
+      "info": "The Sith Lord and Anakin Skywalker's alter ego",
+      "approvalStatus": true,
+      "universeId": 1,
+      "powerSetId": 12
+    },
+    {
+      "id": 13,
+      "name": "Yoda",
+      "bioPic": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e28df2b9-eeda-4cec-ba16-c831edf7f8c5/dfmg30c-d91e6b1a-a27b-4b4d-82e9-29c1f7e250b7.png/v1/fill/w_894,h_894,q_70,strp/yearzerorecords_yoda__epic_fight_scene_holding_glo_by_redfivecreative_dfmg30c-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcL2UyOGRmMmI5LWVlZGEtNGNlYy1iYTE2LWM4MzFlZGY3ZjhjNVwvZGZtZzMwYy1kOTFlNmIxYS1hMjdiLTRiNGQtODJlOS0yOWMxZjdlMjUwYjcucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ITyOkdq53ukLkn_FQJFdmBvNPGQ2rk_y44NuPCL1xrA",
+      "info": "The wise and powerful Jedi Master",
+      "approvalStatus": true,
+      "universeId": 1,
+      "powerSetId": 13
+    },
+    {
+      "id": 14,
+      "name": "Darth Maul",
+      "bioPic": "https://cdna.artstation.com/p/assets/images/images/040/296/826/large/daniele-ariuolo-darth-maul-1.jpg?1628448079",
+      "info": "The Sith Lord with a double-bladed lightsaber",
+      "approvalStatus": true,
+      "universeId": 1,
+      "powerSetId": 14
+    },
+    {
+      "id": 15,
+      "name": "Obi-Wan Kenobi",
+      "bioPic": "https://static.wikia.nocookie.net/star-wars-canon-extended/images/e/e6/Ben_Kenobi_Maximus.jpg/revision/latest/scale-to-width-down/376?cb=20181007060550",
+      "info": "The wise and skilled Jedi Master",
+      "approvalStatus": true,
+      "universeId": 1,
+      "powerSetId": 15
+    },
+    {
+      "id": 16,
+      "name": "Aragorn",
+      "bioPic": "https://static.wikia.nocookie.net/p__/images/0/0a/Aragorn_Poster.jpg/revision/latest?cb=20190126151939&path-prefix=protagonist",
+      "info": "The heir to the throne of Gondor",
+      "approvalStatus": true,
+      "universeId": 3,
+      "powerSetId": 16
+    },
+    {
+      "id": 17,
+      "name": "Gandalf",
+      "bioPic": "https://media.moddb.com/cache/images/groups/1/2/1488/thumb_620x2000/guardians-of-middle-earthcharacter-artgandalf.jpg",
+      "info": "The wise and powerful wizard",
+      "approvalStatus": true,
+      "universeId": 3,
+      "powerSetId": 17
+    },
+    {
+      "id": 18,
+      "name": "Legolas",
+      "bioPic": "https://www.wetanz.com/media/catalog/product/cache/0c729873665a1c695396984e8457e603/9/2/92-28-01657_hobbit_jerry_vanderstelt_legolas_greenleaf_art_print_002.jpg",
+      "info": "The skilled archer and elf prince",
+      "approvalStatus": true,
+      "universeId": 3,
+      "powerSetId": 18
+    },
+    {
+      "id": 19,
+      "name": "Gimli",
+      "bioPic": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/07/1455892943-movies-lord-of-the-rings-gimli-still.jpg?resize=980:*",
+      "info": "The brave and strong dwarf warrior of the Blue Mountains",
+      "approvalStatus": true,
+      "universeId": 3,
+      "powerSetId": 19
+    },
+    {
+      "id": 20,
+      "name": "Sauron",
+      "bioPic": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/02/sauron-and-ruler-ring-from-lord-of-the-rings.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+      "info": "The Dark Lord of Mordor",
+      "approvalStatus": true,
+      "universeId": 3,
+      "powerSetId": 20
+    },
+    {
+      "id": 21,
+      "name": "Iron Man",
+      "bioPic": "https://e1.pxfuel.com/desktop-wallpaper/858/253/desktop-wallpaper-1-epic-iron-man-phone-phone-iron-man-iphone-11.jpg",
+      "info": "Genius, billionaire, playboy, philanthropist",
+      "approvalStatus": true,
+      "universeId": 4,
+      "powerSetId": 21
+    },
+    {
+      "id": 22,
+      "name": "Captain America",
+      "bioPic": "https://wallpapers.com/images/high/captain-america-cool-jn4bpl0ljc9td7rt.webp",
+      "info": "The First Avenger",
+      "approvalStatus": true,
+      "universeId": 4,
+      "powerSetId": 22
+    },
+    {
+      "id": 23,
+      "name": "Thor",
+      "bioPic": "https://infinitygeekblog.files.wordpress.com/2013/11/thor-full.jpg",
+      "info": "The Norse god of thunder",
+      "approvalStatus": true,
+      "universeId": 4,
+      "powerSetId": 23
+    },
+    {
+      "id": 24,
+      "name": "Doctor Doom",
+      "bioPic": "https://static.wikia.nocookie.net/marveldatabase/images/b/bb/Fantastic_Four_Vol_6_25_Artgerm_Virgin_Variant.jpg/revision/latest?cb=20200818172430",
+      "info": "The ruler of Latveria",
+      "approvalStatus": true,
+      "universeId": 4,
+      "powerSetId": 24
+    },
+    {
+      "id": 25,
+      "name": "Thanos",
+      "bioPic": "https://media.comicbook.com/2019/04/fortnite-1166733.jpeg",
+      "info": "The Mad Titan",
+      "approvalStatus": true,
+      "universeId": 4,
+      "powerSetId": 25
+    },
+    {
+      "id": 26,
+      "name": "Batman",
+      "bioPic": "https://w0.peakpx.com/wallpaper/839/538/HD-wallpaper-epic-batman-epic-powerfull-strong-awesome-batman.jpg",
+      "info": "The Dark Knight",
+      "approvalStatus": true,
+      "universeId": 5,
+      "powerSetId": 26
+    },
+    {
+      "id": 27,
+      "name": "Superman",
+      "bioPic": "https://static.dc.com/sites/default/files/imce/2014/12-DEC/SMUND_Cv2_580_548a35663e14e2.26662644.jpg",
+      "info": "The Man of Steel",
+      "approvalStatus": true,
+      "universeId": 5,
+      "powerSetId": 27
+    },
+    {
+      "id": 28,
+      "name": "Wonder Woman",
+      "bioPic": "https://4kwallpapers.com/images/walls/thumbs_3t/4984.jpg",
+      "info": "The Amazonian princess",
+      "approvalStatus": true,
+      "universeId": 5,
+      "powerSetId": 28
+    },
+    {
+      "id": 29,
+      "name": "Darkseid",
+      "bioPic": "https://images6.alphacoders.com/112/1126434.jpg",
+      "info": "The Dark Lord of Apokolips",
+      "approvalStatus": true,
+      "universeId": 5,
+      "powerSetId": 29
+    },
+    {
+      "id": 30,
+      "name": "Doomsday",
+      "bioPic": "https://www.comingsoon.net/wp-content/uploads/sites/3/2018/08/dc-comics-doomsday-maquette-sideshow-300680-01-2.jpg",
+      "info": "The Unstoppable",
+      "approvalStatus": true,
+      "universeId": 5,
+      "powerSetId": 30
+    },
+    {
+      "id": 31,
+      "name": "Kratos",
+      "bioPic": "https://e0.pxfuel.com/wallpapers/771/295/desktop-wallpaper-artstation-kratos-god-of-war-4-vladyslav-kutuzov-kratos-god-of-war-god-of-war-war-art-old-kratos.jpg",
+      "info": "The Ghost of Sparta",
+      "approvalStatus": true,
+      "universeId": 6,
+      "powerSetId": 31
+    },
+    {
+      "id": 32,
+      "name": "Master Chief",
+      "bioPic": "http://igeekout.net/wp-content/uploads/2016/06/Hall-of-Heroes-Master-Chief.jpg",
+      "info": "Spartan commander",
+      "approvalStatus": true,
+      "universeId": 6,
+      "powerSetId": 32
+    },
+    {
+      "id": 33,
+      "name": "Dante",
+      "bioPic": "https://wallpapers.com/images/high/grunge-devil-may-cry-dante-poster-2b3jnq85ewnjj0lm.webp",
+      "info": "The Son of Sparda",
+      "approvalStatus": true,
+      "universeId": 6,
+      "powerSetId": 33
+    },
+    {
+      "id": 34,
+      "name": "Sephiroth",
+      "bioPic": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/31a92255-861d-40f4-ad78-a2efd309b0d2/de08znt-9891bed2-e079-4b28-8eff-c6a355be4045.jpg/v1/fill/w_1057,h_756,q_70,strp/sephiroth_by_sandara_de08znt-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODU4IiwicGF0aCI6IlwvZlwvMzFhOTIyNTUtODYxZC00MGY0LWFkNzgtYTJlZmQzMDliMGQyXC9kZTA4em50LTk4OTFiZWQyLWUwNzktNGIyOC04ZWZmLWM2YTM1NWJlNDA0NS5qcGciLCJ3aWR0aCI6Ijw9MTIwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.wdRIsHnwYvD-65vwf9TxGxVGL_z7S2sNOHBnjFQqYfc",
+      "info": "One-Winged Angel",
+      "approvalStatus": true,
+      "universeId": 6,
+      "powerSetId": 34
+    },
+    {
+      "id": 35,
+      "name": "Link",
+      "bioPic": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/90348aed-6354-4f85-b182-13b9a93b351e/d68h1f0-b182471f-9a31-4090-a302-4aa3690aaf5b.jpg/v1/fill/w_1024,h_640,q_75,strp/1281_epic_link_wallpaper_wallchan_1280x800_by_gopro9000_d68h1f0-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvOTAzNDhhZWQtNjM1NC00Zjg1LWIxODItMTNiOWE5M2IzNTFlXC9kNjhoMWYwLWIxODI0NzFmLTlhMzEtNDA5MC1hMzAyLTRhYTM2OTBhYWY1Yi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ty11D8hdaiNrBbnBBDTI638jSR4-FsMOI-VKIl_-dLE",
+      "info": "The Hero of Time",
+      "approvalStatus": true,
+      "universeId": 6,
+      "powerSetId": 35
+    }
+  ],
+  "universes": [
+    {
+      "id": 1,
+      "description": "A galaxy far, far away where the Force is strong and the battle between good and evil is never-ending.",
+      "universeImage": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2022/09/The-Star-Wars-Universe.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5",
+      "universeName": "Star Wars"
+    },
+    {
+      "id": 2,
+      "description": "A world where the will of fire burns eternal.",
+      "universeImage": "https://preview.redd.it/yg23soppgec91.jpg?width=900&format=pjpg&auto=webp&s=5f2aef9f8f11d33a65ba1b88028db3477e72b96c",
+      "universeName": "Naruto"
+    },
+    {
+      "id": 3,
+      "description": "A classic fantasy world where good and evil battle for control of the One Ring.",
+      "universeImage": "https://i0.wp.com/crast.net/img/2022/05/The-Lord-of-the-Rings-Heroes-of-Middle-earth-the-new.jpg?resize=1140,570",
+      "universeName": "Lord of the Rings"
+    },
+    {
+      "id": 4,
+      "description": "A place where the extraordinary is ordinary, and the impossible is just around the corner.",
+      "universeImage": "https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2019/07/marvel-universe-i31869.jpg?w=840",
+      "universeName": "Marvel"
+    },
+    {
+      "id": 5,
+      "description": "A world where hope and justice always triumph over fear and chaos.",
+      "universeImage": "https://www.denofgeek.com/wp-content/uploads/2020/06/dc-fandome-dceu-arrowverse.jpg?resize=768%2C432",
+      "universeName": "DC"
+    },
+    {
+      "id": 6,
+      "description": "A vast and ever-changing realm where the characters from our favorite video games come to life.",
+      "universeImage": "http://3.bp.blogspot.com/-kRiatNK6DwU/VjNs6nq0-MI/AAAAAAAAKss/3RPqti2bkkU/s1600/characters.jpg",
+      "universeName": "Video Games"
+    },
+    {
+      "id": 7,
+      "description": "A world where martial arts, superpowers, and epic battles are the norm.",
+      "universeImage": "https://i.redd.it/universe-7-ready-to-win-the-next-tournament-of-power-in-v0-x54kghxesc6a1.jpg?s=f5279c1b22c0c305e8905916b47ba4d47676710b",
+      "universeName": "Dragon Ball"
+    }
+  ],
+  "powerSets": [
+    {
+      "id": 1,
+      "description": "Goku's power set is based on the Saiyan race, which are a warrior race from Planet Vegeta. Goku's power level is incredibly high, and he has access to a wide range of ki-based attacks. He is the strongest character in the Dragon Ball universe.",
+      "powerLevel": 1300,
+      "powers": [
+        "Super Saiyan Blue",
+        "Ultra Instinct",
+        "Spirit Bomb",
+        "Kamehameha",
+        "Kaioken"
+      ]
+    },
+    {
+      "id": 2,
+      "description": "Vegeta's power set is similar to Goku's, as they are both Saiyans. However, Vegeta is more focused on raw power, while Goku is more focused on technique. Vegeta's power level is also very high, and he is second only to Goku in terms of power.",
+      "powerLevel": 1250,
+      "powers": [
+        "Super Saiyan Blue",
+        "Final Flash",
+        "Big Bang Attack",
+        "Galick Gun",
+        "Final Impact"
+      ]
+    },
+    {
+      "id": 3,
+      "description": "Frieza's power set is based on his alien race, the Frieza Force. Frieza is a very powerful being, and he has access to a wide range of energy attacks. He is one of the most dangerous villains in the Dragon Ball universe.",
+      "powerLevel": 1100,
+      "powers": [
+        "Golden Frieza",
+        "Death Beam",
+        "Ki Blasts",
+        "Death Saucer",
+        "Final Form Frieza"
+      ]
+    },
+    {
+      "id": 4,
+      "description": "Beerus's power set is based on his position as the God of Destruction of Universe 7. Beerus is incredibly powerful, and he has access to a wide range of ki-based attacks. He is one of the strongest beings in the universe.",
+      "powerLevel": 1275,
+      "powers": [
+        "Hakai",
+        "Energy Blasts",
+        "Planet Destruction",
+        "God of Destruction's Ki",
+        "God of Destruction's Aura"
+      ]
+    },
+    {
+      "id": 5,
+      "description": "Jiren's power set is based on his unknown race. Jiren is incredibly powerful, and he has access to a wide range of ki-based attacks. He is one of the strongest beings in the universe.",
+      "powerLevel": 1250,
+      "powers": [
+        "Ultra Instinct",
+        "Energy Blasts",
+        "Ki Manipulation",
+        "Force Field",
+        "Unbreakable Defense"
+      ]
+    },
+    {
+      "id": 6,
+      "description": "Naruto's power set is based on the Uzumaki clan, which are a powerful clan from the Land of Fire. Naruto's power level is incredibly high, and he has access to a wide range of ninjutsu and taijutsu techniques. He is the strongest character in the Naruto universe.",
+      "powerLevel": 1100,
+      "powers": [
+        "Rasengan",
+        "Shadow Clone Jutsu",
+        "Kage Bunshin no Jutsu",
+        "Shurikenjutsu",
+        "Chakra Control"
+      ]
+    },
+    {
+      "id": 7,
+      "description": "Sasuke's power set is based on the Uchiha clan, which are a powerful clan from the Land of Fire. Sasuke's power level is also very high, and he has access to a wide range of ninjutsu and taijutsu techniques. He is one of the strongest characters in the Naruto universe.",
+      "powerLevel": 1050,
+      "powers": [
+        "Chidori",
+        "Susanoo",
+        "Fire Release",
+        "Lightning Release",
+        "Genjutsu"
+      ]
+    },
+    {
+      "id": 8,
+      "description": "Kakashi's power set is based on the Sharingan, which is a powerful kekkei genkai. Kakashi is skilled in a wide range of ninjutsu, including taijutsu, genjutsu, and ninjutsu. He is also a skilled teacher.",
+      "powerLevel": 1000,
+      "powers": [
+        "Sharingan",
+        "Chidori",
+        "Fire Release",
+        "Lightning Release",
+        "Genjutsu"
+      ]
+    },
+    {
+      "id": 9,
+      "description": "Sakura's power set is based on the Haruno clan, which are a medical clan from the Land of Fire. Sakura's power level is not as high as Naruto or Sasuke, but she is still a very powerful kunoichi.",
+      "powerLevel": 950,
+      "powers": [
+        "Strength of a Hundred Seal",
+        "Medical Ninjutsu",
+        "Chakra Control",
+        "Taijutsu",
+        "Strength Enhancement"
+      ]
+    },
+    {
+      "id": 10,
+      "description": "Might Guy's power set is based on his mastery of taijutsu. He is incredibly skilled in close-quarters combat, and he is known for his use of the Night Guy technique.",
+      "powerLevel": 1050,
+      "powers": [
+        "Night Guy",
+        "Eight Gates",
+        "Taijutsu Mastery"
+      ]
+    },
+    {
+      "id": 11,
+      "description": "Luke Skywalker's power set is based on his mastery of the Force. He is a powerful Jedi Knight, and he is known for his use of the Force to augment his physical abilities.",
+      "powerLevel": 1000,
+      "powers": [
+        "Force Push",
+        "Force Pull",
+        "Force Jump",
+        "Force Sense",
+        "Force Speed"
+      ]
+    },
+    {
+      "id": 12,
+      "description": "Darth Vader's power set is based on his mastery of the dark side of the Force. He is a powerful Sith Lord, and he is known for his use of the Force to crush his enemies.",
+      "powerLevel": 1100,
+      "powers": [
+        "Force Choke",
+        "Force Lightning",
+        "Force Drain",
+        "Force Rage",
+        "Force Crush"
+      ]
+    },
+    {
+      "id": 13,
+      "description": "Yoda's power set is based on his mastery of the Force. He is a powerful Jedi Master, and he is known for his use of the Force to control the minds of others.",
+      "powerLevel": 1150,
+      "powers": [
+        "Force Telekinesis",
+        "Force Mind Trick",
+        "Force Speed",
+        "Force Sight",
+        "Force Healing"
+      ]
+    },
+    {
+      "id": 14,
+      "description": "Darth Maul's power set is based on his mastery of the dark side of the Force. He is a powerful Sith Apprentice, and he is known for his use of the Force to augment his physical abilities.",
+      "powerLevel": 1000,
+      "powers": [
+        "Double-Bladed Lightsaber",
+        "Force Push",
+        "Force Pull",
+        "Force Speed",
+        "Force Sense"
+      ]
+    },
+    {
+      "id": 15,
+      "description": "Obi-Wan Kenobi's power set is based on his mastery of the Force. He is a powerful Jedi Master, and he is known for his use of the Force to defend himself and others.",
+      "powerLevel": 1050,
+      "powers": [
+        "Force Push",
+        "Force Pull",
+        "Force Jump",
+        "Force Sense",
+        "Force Speed",
+        "Saber Throw"
+      ]
+    },
+    {
+      "id": 16,
+      "description": "Aragorn's power set is based on his race, the Men. Men are known for their strength and their courage. Aragorn is also a skilled warrior, and he is the rightful heir to the throne of Gondor.",
+      "powerLevel": 950,
+      "powers": [
+        "Strength",
+        "Courage",
+        "Leadership",
+        "Swordsmanship",
+        "Ranger Skills"
+      ]
+    },
+    {
+      "id": 17,
+      "description": "Gandalf's power set is based on his race, the Maiar. Maiar are powerful spirits who serve the Valar. Gandalf is also a skilled wizard, and he is known for his use of magic.",
+      "powerLevel": 1050,
+      "powers": [
+        "Magic",
+        "Leadership",
+        "Wisdom",
+        "Gandalf's Staff"
+      ]
+    },
+    {
+      "id": 18,
+      "description": "Legolas's power set is based on his race, the Elves. Elves are known for their grace and their skill in archery and swordsmanship. Legolas is also a skilled tracker, and he is known for his keen eyesight.",
+      "powerLevel": 900,
+      "powers": [
+        "Archery",
+        "Swordsmanship",
+        "Tracking",
+        "Elven Grace"
+      ]
+    },
+    {
+      "id": 19,
+      "description": "Gimli's power set is based on his race, the Dwarves. Dwarves are known for their strength and their skill in mining and crafting. Gimli is also a skilled warrior, and he is known for his use of axes.",
+      "powerLevel": 850,
+      "powers": [
+        "Axe Mastery",
+        "Heavy Armor",
+        "Stonecunning",
+        "Gimli's Rage"
+      ]
+    },
+    {
+      "id": 20,
+      "description": "Sauron's power set is based on his race, the Maiar. Maiar are powerful spirits who serve the Valar. Sauron is also a skilled sorcerer, and he is known for his use of the One Ring.",
+      "powerLevel": 1200,
+      "powers": [
+        "The One Ring",
+        "Dark Magic",
+        "Domination",
+        "Destruction"
+      ]
+    },
+    {
+      "id": 21,
+      "description": "Iron Man's power set is based on his suit of armor, which is powered by his genius intellect. He is a powerful fighter, and he is also a skilled tactician.",
+      "powerLevel": 1000,
+      "powers": [
+        "Suit of Armor",
+        "Repulsor Rays",
+        "Unibeam",
+        "Jarvis"
+      ]
+    },
+    {
+      "id": 22,
+      "description": "Captain America's power set is based on his enhanced strength, speed, and agility. He is also a skilled hand-to-hand combatant, and he is a master of the shield.",
+      "powerLevel": 1050,
+      "powers": [
+        "Enhanced Strength",
+        "Speed",
+        "Agility",
+        "Shield Mastery"
+      ]
+    },
+    {
+      "id": 23,
+      "description": "Thor's power set is based on his mastery of the elements. He is a powerful god of thunder, and he is also a skilled warrior.",
+      "powerLevel": 1200,
+      "powers": [
+        "Lightning",
+        "Storms",
+        "Hammer Mastery",
+        "Godly Strength"
+      ]
+    },
+    {
+      "id": 24,
+      "description": "Doctor Doom's power set is based on his mastery of magic and technology. He is a powerful sorcerer, and he is also a skilled inventor.",
+      "powerLevel": 1100,
+      "powers": [
+        "Magic",
+        "Technology",
+        "Genius Intellect",
+        "Doombots"
+      ]
+    },
+    {
+      "id": 25,
+      "description": "Thanos's power set is based on his immense strength and durability. He is also a skilled tactician, and he is the wielder of the Infinity Gauntlet.",
+      "powerLevel": 1250,
+      "powers": [
+        "Immense Strength",
+        "Durability",
+        "Genius Intellect",
+        "Infinity Gauntlet"
+      ]
+    },
+    {
+      "id": 26,
+      "description": "Batman's power set is based on his intelligence, skill, and gadgets. He is a master of hand-to-hand combat, and he is also a skilled detective.",
+      "powerLevel": 950,
+      "powers": [
+        "Genius Intellect",
+        "Martial Arts",
+        "Gadgets",
+        "Detective Skills"
+      ]
+    },
+    {
+      "id": 27,
+      "description": "Superman's power set is based on his Kryptonian biology. He is incredibly strong, fast, and durable. He also has the ability to fly and shoot lasers from his eyes.",
+      "powerLevel": 1250,
+      "powers": [
+        "Kryptonian Physiology",
+        "Super Strength",
+        "Super Speed",
+        "Super Durability",
+        "Flight",
+        "Heat Vision"
+      ]
+    },
+    {
+      "id": 28,
+      "description": "Wonder Woman's power set is based on her Amazonian heritage. She is incredibly strong, fast, and skilled in hand-to-hand combat. She also has the ability to use the Lasso of Truth.",
+      "powerLevel": 1000,
+      "powers": [
+        "Amazonian Physiology",
+        "Super Strength",
+        "Super Speed",
+        "Martial Arts",
+        "Lasso of Truth"
+      ]
+    },
+    {
+      "id": 29,
+      "description": "Darkseid's power set is based on his Omega Beams. He is incredibly powerful, and he can use his Omega Beams to destroy anything in his path.",
+      "powerLevel": 1200,
+      "powers": [
+        "Omega Beams",
+        "Immensity",
+        "Durability",
+        "Genius Intellect"
+      ]
+    },
+    {
+      "id": 30,
+      "description": "Doomsday's power set is based on his indestructible body. He is incredibly strong, fast, and durable. He also has the ability to adapt to any attack that is used against him.",
+      "powerLevel": 1100,
+      "powers": [
+        "Indestructible Body",
+        "Super Strength",
+        "Super Speed",
+        "Durability",
+        "Adaptation"
+      ]
+    },
+    {
+      "id": 31,
+      "description": "Kratos's power set is based on his strength, rage, and the power of the Blades of Chaos. He is an incredibly skilled warrior, and he is also a master of the Spartan Rage.",
+      "powerLevel": 1225,
+      "powers": [
+        "Strength",
+        "Rage",
+        "Blades of Chaos",
+        "Spartan Rage"
+      ]
+    },
+    {
+      "id": 32,
+      "description": "Master Chief's power set is based on his enhanced strength, speed, and durability. He is also a skilled soldier, and he is the wearer of the MJOLNIR Powered Assault Armor.",
+      "powerLevel": 1000,
+      "powers": [
+        "Enhanced Strength",
+        "Speed",
+        "Durability",
+        "MJOLNIR Powered Assault Armor"
+      ]
+    },
+    {
+      "id": 33,
+      "description": "Dante's power set is based on his demonic heritage and his mastery of the Force Edge. He is an incredibly skilled swordsman, and he is also a master of the Devil Trigger.",
+      "powerLevel": 1050,
+      "powers": [
+        "Demonic Heritage",
+        "Force Edge",
+        "Swordsmanship",
+        "Devil Trigger"
+      ]
+    },
+    {
+      "id": 34,
+      "description": "Sephiroth's power set is based on his Jenova cells and his mastery of the Masamune. He is an incredibly skilled swordsman, and he is also a master of the Black Materia.",
+      "powerLevel": 1100,
+      "powers": [
+        "Jenova Cells",
+        "Masamune",
+        "Swordsmanship",
+        "Black Materia"
+      ]
+    },
+    {
+      "id": 35,
+      "description": "Link's power set is based on his Triforce of Courage and his mastery of the Master Sword. He is an incredibly skilled swordsman, and he is also a master of the Hylian Shield.",
+      "powerLevel": 975,
+      "powers": [
+        "Triforce of Courage",
+        "Master Sword",
+        "Swordsmanship",
+        "Hylian Shield"
+      ]
+    }
+  ],
+  "charaterPowerSets": [
+    {
+      "id": 1,
+      "characterId": 1,
+      "powerSetId": 1
+    },
+    {
+      "id": 2,
+      "characterId": 2,
+      "powerSetId": 2
+    },
+    {
+      "id": 3,
+      "characterId": 3,
+      "powerSetId": 4
+    },
+    {
+      "id": 4,
+      "characterId": 4,
+      "powerSetId": 3
+    },
+    {
+      "id": 5,
+      "characterId": 5,
+      "powerSetId": 5
+    },
+    {
+      "id": 6,
+      "characterId": 6,
+      "powerSetId": 6
+    },
+    {
+      "id": 7,
+      "characterId": 7,
+      "powerSetId": 7
+    },
+    {
+      "id": 8,
+      "characterId": 8,
+      "powerSetId": 9
+    },
+    {
+      "id": 9,
+      "characterId": 9,
+      "powerSetId": 8
+    },
+    {
+      "id": 10,
+      "characterId": 10,
+      "powerSetId": 10
+    },
+    {
+      "id": 11,
+      "characterId": 11,
+      "powerSetId": 11
+    },
+    {
+      "id": 12,
+      "characterId": 12,
+      "powerSetId": 12
+    },
+    {
+      "id": 13,
+      "characterId": 13,
+      "powerSetId": 13
+    },
+    {
+      "id": 14,
+      "characterId": 14,
+      "powerSetId": 14
+    },
+    {
+      "id": 15,
+      "characterId": 15,
+      "powerSetId": 15
+    },
+    {
+      "id": 16,
+      "characterId": 16,
+      "powerSetId": 16
+    },
+    {
+      "id": 17,
+      "characterId": 17,
+      "powerSetId": 17
+    },
+    {
+      "id": 18,
+      "characterId": 18,
+      "powerSetId": 18
+    },
+    {
+      "id": 19,
+      "characterId": 19,
+      "powerSetId": 19
+    },
+    {
+      "id": 20,
+      "characterId": 20,
+      "powerSetId": 20
+    },
+    {
+      "id": 21,
+      "characterId": 21,
+      "powerSetId": 21
+    },
+    {
+      "id": 22,
+      "characterId": 22,
+      "powerSetId": 22
+    },
+    {
+      "id": 23,
+      "characterId": 23,
+      "powerSetId": 23
+    },
+    {
+      "id": 24,
+      "characterId": 24,
+      "powerSetId": 24
+    },
+    {
+      "id": 25,
+      "characterId": 25,
+      "powerSetId": 25
+    },
+    {
+      "id": 26,
+      "characterId": 26,
+      "powerSetId": 26
+    },
+    {
+      "id": 27,
+      "characterId": 27,
+      "powerSetId": 27
+    },
+    {
+      "id": 28,
+      "characterId": 28,
+      "powerSetId": 28
+    },
+    {
+      "id": 29,
+      "characterId": 29,
+      "powerSetId": 29
+    },
+    {
+      "id": 30,
+      "characterId": 30,
+      "powerSetId": 30
+    },
+    {
+      "id": 31,
+      "characterId": 31,
+      "powerSetId": 31
+    },
+    {
+      "id": 32,
+      "characterId": 32,
+      "powerSetId": 32
+    },
+    {
+      "id": 33,
+      "characterId": 33,
+      "powerSetId": 33
+    },
+    {
+      "id": 34,
+      "characterId": 34,
+      "powerSetId": 34
+    },
+    {
+      "id": 35,
+      "characterId": 35,
+      "powerSetId": 35
+    }
+  ]
+}
