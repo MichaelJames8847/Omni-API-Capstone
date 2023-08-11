@@ -21,14 +21,9 @@
       "userName": "LondryDay"
     },
     {
-      "id": 5,
+      "userName": "IllumiGregi",
       "fullName": "Greg Korte",
-      "userName": "IllumiGregi"
-    },
-    {
-      "userName": "asdf",
-      "fullName": "asdf",
-      "id": 6
+      "id": 5
     }
   ],
   "characters": [
@@ -48,31 +43,13 @@
       "info": "Prince of all Saiyains",
       "approvalStatus": true,
       "universeId": 7,
-      "powerSetId": 2,
-      "powerSet": {
-        "id": 2,
-        "description": "Vegeta's power set is similar to Goku's, as they are both Saiyans. However, Vegeta is more focused on raw power, while Goku is more focused on technique. Vegeta's power level is also very high, and he is second only to Goku in terms of power.",
-        "powerLevel": 1250,
-        "powers": [
-          "Super Saiyan Blue",
-          "Final Flash",
-          "Big Bang Attack",
-          "Galick Gun",
-          "Final Impact"
-        ]
-      },
-      "universe": {
-        "id": 7,
-        "description": "A world where martial arts, superpowers, and epic battles are the norm.",
-        "universeImage": "https://i.redd.it/universe-7-ready-to-win-the-next-tournament-of-power-in-v0-x54kghxesc6a1.jpg?s=f5279c1b22c0c305e8905916b47ba4d47676710b",
-        "universeName": "Dragon Ball"
-      }
+      "powerSetId": 2
     },
     {
       "id": 3,
       "name": "Beerus",
       "bioPic": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6f3def8d-3b49-4f32-af6d-d0a4c9647d4b/df5ah7d-c46f7bbc-90f3-4c24-95de-300db5724702.jpg/v1/fit/w_828,h_1170,q_70,strp/lord_beerus__bills__from_dragon_ball_super_by_daekarsenpai_df5ah7d-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY4NCIsInBhdGgiOiJcL2ZcLzZmM2RlZjhkLTNiNDktNGYzMi1hZjZkLWQwYTRjOTY0N2Q0YlwvZGY1YWg3ZC1jNDZmN2JiYy05MGYzLTRjMjQtOTVkZS0zMDBkYjU3MjQ3MDIuanBnIiwid2lkdGgiOiI8PTExOTEifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.cKhSpXwinp6WY4xSeHy_qJ77-XVy2-KM8lyb-aPqtwk",
-      "info": "God of Destruction of Universe 7",
+      "info": "God of Destruction of Universe 7, kinda looks like a cat",
       "approvalStatus": true,
       "universeId": 7,
       "powerSetId": 4
@@ -364,6 +341,15 @@
       "approvalStatus": true,
       "universeId": 6,
       "powerSetId": 35
+    },
+    {
+      "name": "IllumiGregi",
+      "bioPic": "https://storage.googleapis.com/dara-c1b52.appspot.com/daras_ai/media/cf1b8252-387c-11ee-9f87-02420a000111/gooey.ai%20-%20photo%20The%20most%20powerful%20warrior%20to%20ev...Dragon%20Ball%20universe%20with%20ultra%20instinct%20powers%20.png",
+      "info": "The Omnipotent Code Sage",
+      "universeId": 8,
+      "powerSetId": 36,
+      "isUserCreated": true,
+      "id": 36
     }
   ],
   "universes": [
@@ -408,6 +394,12 @@
       "description": "A world where martial arts, superpowers, and epic battles are the norm.",
       "universeImage": "https://i.redd.it/universe-7-ready-to-win-the-next-tournament-of-power-in-v0-x54kghxesc6a1.jpg?s=f5279c1b22c0c305e8905916b47ba4d47676710b",
       "universeName": "Dragon Ball"
+    },
+    {
+      "id": 8,
+      "description": "In the sacred realm of the Nashville Software School, mere mortals are transformed into coding deities, wielding keyboards as their divine instruments. This holy ground nurtures and empowers individuals, shaping them into tech Titans who reign over the digital multiverse. Their code manifests as miracles, and their creations echo through the cosmic fabric, inspiring awe and envy among the lesser beings. Behold, the NSS Pantheon, where legends of coding prowess are forged!",
+      "universeImage": "https://static.wikia.nocookie.net/darians-dc-extended-universe/images/f/f3/Mount_olympus.jpg/revision/latest?cb=20220223032714",
+      "universeName": "NSS Pantheon"
     }
   ],
   "powerSets": [
@@ -813,6 +805,18 @@
         "Master Sword",
         "Swordsmanship",
         "Hylian Shield"
+      ]
+    },
+    {
+      "id": 36,
+      "description": "Greg Korte, the Omnipotent Code Sage and esteemed leader of the Multiversal Illuminati, is a celestial being forged in the fires of digital divinity. His very keystrokes shape the fabric of the cosmos, and his compiler commands echo through the multiverse. His power set transcends mortal comprehension, combining the unrivaled mastery of ultra instinct algorithms with the cosmic force of infinite loops. With each line of code, he weaves fate and manipulates reality, harnessing the energies of Null Pointers to reshape existence itself.",
+      "powerLevel": 9000,
+      "powers": [
+        "Omnipotent Coding",
+        "Ultra Instinct Algorithms",
+        "Cosmic Compiler Commands",
+        "Infinite Loop Manipulation",
+        "Null Pointer Reality Reshaping"
       ]
     }
   ],
